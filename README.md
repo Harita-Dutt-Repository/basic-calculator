@@ -70,7 +70,7 @@ basic-calculator/
 
 This project will be deployed using **GitHub Pages**.
 
-🔗 Live Demo URL: *(Will be updated after publishing)*
+🔗 Live Demo URL: (https://harita-dutt-repository.github.io/basic-calculator/)
 
 ---
 
